@@ -1,0 +1,248 @@
+{
+  "cohort_markets": 34,
+  "calendar_months": 84,
+  "status_counts": {
+    "both_missing": 496,
+    "matched": 2311,
+    "flour_missing": 48,
+    "wage_missing": 1
+  },
+  "months_without_any_matches": [
+    {
+      "month": "2019-01",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-02",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-03",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-04",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-05",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-06",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-07",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-08",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-09",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-10",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-11",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2019-12",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2020-01",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2020-02",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2020-03",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    },
+    {
+      "month": "2020-04",
+      "markets_in_cohort": 34,
+      "matched": 0,
+      "wage_missing": 0,
+      "flour_missing": 3,
+      "both_missing": 31,
+      "ambiguous": 0
+    }
+  ],
+  "partially_matched_months": [
+    {
+      "month": "2025-02",
+      "markets_in_cohort": 34,
+      "matched": 33,
+      "wage_missing": 1,
+      "flour_missing": 0,
+      "both_missing": 0,
+      "ambiguous": 0
+    }
+  ],
+  "fully_matched_months": [
+    "2020-05",
+    "2020-06",
+    "2020-07",
+    "2020-08",
+    "2020-09",
+    "2020-10",
+    "2020-11",
+    "2020-12",
+    "2021-01",
+    "2021-02",
+    "2021-03",
+    "2021-04",
+    "2021-05",
+    "2021-06",
+    "2021-07",
+    "2021-08",
+    "2021-09",
+    "2021-10",
+    "2021-11",
+    "2021-12",
+    "2022-01",
+    "2022-02",
+    "2022-03",
+    "2022-04",
+    "2022-05",
+    "2022-06",
+    "2022-07",
+    "2022-08",
+    "2022-09",
+    "2022-10",
+    "2022-11",
+    "2022-12",
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+  ],
+  "gaps_in_months_with_some_matches": [
+    {
+      "market_id": "3692",
+      "market": "Daykundi",
+      "month": "2025-02",
+      "status": "wage_missing",
+      "wage_rows": 0,
+      "flour_rows": 1,
+      "wage_flags": "",
+      "flour_flags": "aggregate"
+    }
+  ]
+}

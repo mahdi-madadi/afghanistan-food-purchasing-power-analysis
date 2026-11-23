@@ -1,0 +1,141 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+266,Fayzabad,AFG,Badakhshan,Faiz Abad,37.12,70.58
+267,Mazar,AFG,Balkh,Mazar-e-Sharif,36.73,67.11
+268,Bamyan,AFG,Bamyan,Bamyan,34.82,67.82
+269,Maymana,AFG,Faryab,Maymana,35.92,64.78
+270,Hirat,AFG,Hirat,Hirat,34.35,62.2
+271,Kabul,AFG,Kabul,Kabul,34.52,69.18
+272,Kandahar,AFG,Kandahar,Kandahar,31.61,65.71
+273,Jalalabad,AFG,Nangarhar,Jalalabad,34.43,70.45
+274,Gardez,AFG,Paktya,Gardez,33.6,69.23
+275,Nili,AFG,Daykundi,Nili,33.71,66.11
+276,Ghor,AFG,Ghor,Chaghcharan,34.52,65.25
+3220,Badghis,AFG,Badghis,Jawand,35.14,63.73
+3221,Baghlan,AFG,Baghlan,Dushi,35.8,68.91
+3222,Farah,AFG,Farah,Khak-e-Safed,32.61,62.3
+3223,Ghazni,AFG,Ghazni,Qarabagh,33.32,67.81
+3224,Hilmand,AFG,Hilmand,Garm Ser,31.15,64.05
+3225,Jawzjan,AFG,Jawzjan,Khwaja Du Koh,36.83,65.85
+3226,Kapisa,AFG,Kapisa,Nejrab,34.96,69.62
+3227,Khost,AFG,Khost,Khost,33.38,69.83
+3228,Kunar,AFG,Kunar,Wata Pur,34.97,71.09
+3229,Kunduz,AFG,Kunduz,Kunduz,36.84,68.75
+3230,Laghman,AFG,Laghman,Alishang,34.76,70.16
+3231,Logar,AFG,Logar,Khoshi,34.01,69.17
+3232,Maidan Wardak,AFG,Wardak,Hesa Awal-e- Behsud,34.3,68.22
+3233,Nimroz,AFG,Nimroz,Chahar Burjak,30.8,62.32
+3234,Nuristan,AFG,Nuristan,Poruns,35.42,70.79
+3235,Paktika,AFG,Paktika,Gomal,32.48,68.74
+3236,Panjsher,AFG,Panjsher,Khenj,35.45,69.79
+3237,Parwan,AFG,Parwan,Syah Gerd,34.96,68.89
+3238,Samangan,AFG,Samangan,Khuram wa Sarbagh,35.97,67.7
+3239,Sar-e-Pul,AFG,Sar-e-pul,Kohistanat,35.71,66.14
+3240,Takhar,AFG,Takhar,Taloqan,36.7,69.78
+3241,Uruzgan,AFG,Uruzgan,Chora,32.85,66.06
+3242,Zabul,AFG,Zabul,Qalat,32.2,67.15
+3690,Badakhshan,AFG,Badakhshan,Argo,37.04,70.46
+3691,Balkh,AFG,Balkh,Nahr-e- Shahi,36.67,67.08
+3692,Daykundi,AFG,Daykundi,Shahristan,33.71,66.22
+3693,Faryab,AFG,Faryab,Khwaja Sabzposh,36.06,64.87
+3694,Nangarhar,AFG,Nangarhar,Rodat,34.27,70.48
+3695,Paktya,AFG,Paktya,Sayed Karam,33.63,69.39
+5052,Pol-e-Khomri,AFG,Baghlan,Pul-e- khumri,35.95,68.71
+5053,Baghlan-e-jadid,AFG,Baghlan,Baghlan-e-jadid,36.32,68.84
+5054,Taloqan,AFG,Takhar,Taloqan,36.74,69.53
+5062,Bazar Qala-I-Naw,AFG,Badghis,Qala-e-Naw,34.99,63.13
+5063,Mandawi Aybak,AFG,Samangan,Aybak,36.27,68.01
+5782,Urgun Bazar,AFG,Paktika,Urgun,32.94,69.18
+5783,Shalgara Bazar,AFG,Laghman,Qarghayi,34.5,70.21
+5784,Sharwali Market,AFG,Laghman,Mehtarlam,34.57,70.21
+5785,Akhundzadagano Bazar,AFG,Nangarhar,Chaparhar,34.28,70.36
+5786,Alingar District Center Bazar,AFG,Laghman,Alingar,34.83,70.36
+5787,Anaba,AFG,Panjsher,Onaba,35.23,69.38
+5788,Andkhoy market,AFG,Faryab,Andkhoy,36.95,65.13
+5789,Arzan Qimat 3rd Block Market,AFG,Kabul,Bagrami,34.52,69.32
+5790,Asadabad Main Market,AFG,Kunar,Asad Abad,34.87,71.15
+5791,Asmar Market,AFG,Kunar,Dangam,35.03,71.35
+5792,Aziz Khan Kas,AFG,Laghman,Qarghayi,34.49,70.3
+5793,Bala Buluk,AFG,Farah,Bala Buluk,32.61,62.42
+5794,Bandar Andrab,AFG,Baghlan,Khenjan,35.6,68.9
+5795,Baraki Rajan,AFG,Logar,Baraki Barak,33.94,68.92
+5796,Basir Market,AFG,Nuristan,Poruns,35.31,70.87
+5797,Batikot District Main Market,AFG,Nangarhar,Bati Kot,34.27,70.74
+5798,Bazaar Selbito in District Centre ,AFG,Daykundi,Sang-e-Takht,34.19,65.82
+5799,Bazaar Teamran in Kiti,AFG,Daykundi,kiti,33.64,65.78
+5800,Bazar Markazi Qadis,AFG,Badghis,Qadis,34.8,63.44
+5801,Bazar Muqur,AFG,Badghis,Muqur,35.08,63.27
+5802,Charasyab,AFG,Kabul,Chahar Asyab,34.4,69.16
+5803,Charikar Market,AFG,Parwan,Chaharikar,35.01,69.17
+5804,Dawlat Shah Bazar,AFG,Laghman,Daulat Shah,34.96,70.06
+5805,Dawlatyar,AFG,Ghor,Dawlat Yar,34.55,65.79
+5806,Domonda Bazar-Shamul,AFG,Khost,Shamal,33.28,69.59
+5807,Farah Bazaar,AFG,Farah,Farah,32.38,62.11
+5808,Farah Rud Bazaar,AFG,Farah,Bala Buluk,32.75,62.59
+5809,Ghulam Mohaiden Market,AFG,Laghman,Qarghayi,34.55,70.24
+5810,Guzara,AFG,Hirat,Guzara,34.23,62.22
+5811,Haji Miraheem Market,AFG,Laghman,Mehtarlam,34.67,70.21
+5812,Haji Ashaq,AFG,Laghman,Qarghayi,34.53,70.29
+5813,Hakimi Market,AFG,Hilmand,Lashkar Gah,31.58,64.36
+5814,Hazrati Imam Saheb Bazar,AFG,Kunduz,Imam Saheb,37.18,68.91
+5815,Hissa-e-Awal (Khinj),AFG,Panjsher,Khenj,35.43,69.74
+5816,Huni Sufla,AFG,Logar,Pul-e- Alam,34.01,69.01
+5817,Jabulussaraj,AFG,Parwan,Jabalussaraj,35.12,69.23
+5818,Janan Agha Market,AFG,Uruzgan,Tirin Kot,32.63,65.88
+5819,Kaga Bazar,AFG,Nangarhar,Khowgiani,34.25,70.19
+5820,Kahmard,AFG,Bamyan,Kahmard,35.32,67.64
+5821,Khir Kot Bazar,AFG,Paktika,Zarghun Shahr,32.85,68.45
+5822,Kholbesat Bazar-Sabari,AFG,Khost,Sabri,33.49,70
+5823,Khost City (Matoon),AFG,Khost,Khost,33.34,69.92
+5824,Kohsan,AFG,Hirat,Kohsan,34.67,61.09
+5825,Kota Sangi,AFG,Kabul,Kabul,34.51,69.12
+5826,Kunduz City Market,AFG,Kunduz,Kunduz,36.73,68.87
+5827,Lal Wa Sarjangal,AFG,Ghor,Lal Wa Sarjangal,34.5,66.28
+5828,Mandawi Sheberghan,AFG,Jawzjan,Shiberghan,36.67,65.75
+5829,Shahrak,AFG,Ghor,Shahrak,34.1,64.31
+5830,Nangalam Bazar,AFG,Kunar,Dara-e-Pech,34.98,70.91
+5831,New Shahrak,AFG,Daykundi,Nili,33.74,66.15
+5832,Nijrab,AFG,Kapisa,Nejrab,35.01,69.6
+5833,Olqan Bazaar,AFG,Daykundi,Shahristan,33.7,66.56
+5834,Maidan Shahr,AFG,Wardak,Maydan Shahr,34.4,68.87
+5835,Mahmood Raqi,AFG,Kapisa,Mahmud-e- Raqi,35.04,69.33
+5836,Puli e Kandahari,AFG,Logar,Mohammad Agha,34.23,69.11
+5837,Qala-e-Berget,AFG,Ghazni,Ghazni,33.54,68.42
+5838,Qala-e-Sabz,AFG,Ghazni,Ghazni,33.55,68.42
+5841,Qalat Bazar,AFG,Zabul,Qalat,32.11,66.91
+5842,Qarbagh,AFG,Kabul,Qarabagh,34.84,69.16
+5846,Sangarsaray Bazar,AFG,Nangarhar,Kama,34.41,70.64
+5848,Sarak Awal Proje Taymani,AFG,Kabul,Kabul,34.55,69.15
+5849,Sar-i-Pul Bazar,AFG,Sar-e-pul,Sar-e-pul,36.22,65.93
+5850,Seyahgird (Ghurband),AFG,Parwan,Syah Gerd,35,68.86
+5851,Shahr Now Bazar - Samkani 6 District,AFG,Paktya,Chamkani,33.8,69.82
+5852,Sharana Bazar,AFG,Paktika,Sharan,33.17,68.78
+5853,Shindand,AFG,Hirat,Shindand,33.31,62.16
+5854,Sholgara Main market,AFG,Balkh,Sholgareh,36.32,66.88
+5855,Surobi,AFG,Kabul,Surobi,34.59,69.75
+5856,Zurmat,AFG,Paktya,Zurmat,33.44,69.03
+5857,Yakawlang,AFG,Bamyan,Yakawlang,34.74,66.97
+5858,Yosuf khil Bazar,AFG,Paktika,Yosuf Khel,33.07,68.68
+5859,Zadran,AFG,Baghlan,Pul-e- khumri,35.94,68.72
+5860,Zahid Abad,AFG,Logar,Mohammad Agha,34.27,69.13
+5861,Zaranj Bazar,AFG,Nimroz,Zaranj,30.96,61.86
+5862,Hissa-e-Awali Kohistan,AFG,Kapisa,Hesa Awal-e- Kohestan,35.14,69.3
+5863,Muqur,AFG,Ghazni,Muqur,32.82,67.77
+5864,Rukha,AFG,Panjsher,Rukha,35.26,69.46
+7653,Pasa Mela (Afghan Dubai),AFG,Khost,Spera,33.19,69.52
+7654,Mamadey Bazar,AFG,Khost,Spera,33.19,69.52
+7655,Giyan Bazar,AFG,Paktika,Gian,32.92,69.37
+7656,Nawi Ada,AFG,Paktika,Bermel,32.65,69.26
+7657,Angor Ada,AFG,Paktika,Bermel,32.65,69.25
+7658,Marga bazar,AFG,Paktika,Bermel,32.66,69.27
+7659,Pahlawan Market,AFG,Paktika,Urgun,32.94,69.18
+7660,Haji Rasheed Market,AFG,Paktika,Urgun,32.94,69.18
+7661,Mirza Mohammad Market,AFG,Paktika,Urgun,32.94,69.18
+7662,Munaver Market,AFG,Paktika,Urgun,32.94,69.18
+7757,Mandawi Kefayat,AFG,Balkh,Mazar-e-Sharif,36.71,67.11
+7758,Market Zeraat,AFG,Balkh,Mazar-e-Sharif,36.71,67.09
+7759,Darb-i-Khosh,AFG,Hirat,Hirat,34.34,62.2
+7760,Darb-i-Malik,AFG,Hirat,Hirat,34.35,62.19
+7761,Noor Market,AFG,Kandahar,Kandahar,31.61,65.7
+7762,Qaderi Maket,AFG,Kandahar,Kandahar,31.61,65.7
+7763,Joy Haft Food Main Market,AFG,Nangarhar,Jalalabad,34.43,70.43
+7767,Popal Market ,AFG,Hilmand,Lashkar Gah,31.58,64.36

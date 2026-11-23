@@ -1,0 +1,177 @@
+[
+  {
+    "sheet": "Sheet3",
+    "rows": 21,
+    "columns": 7,
+    "autofilter_range": null,
+    "filter_columns": [],
+    "tables": [],
+    "first_rows": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Count of price",
+        "Column Labels",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Row Labels",
+        "Day",
+        "KG",
+        "L",
+        "Unit",
+        "USD/LCU",
+        "Grand Total"
+      ],
+      [
+        "Bread",
+        null,
+        3946,
+        null,
+        null,
+        null,
+        3946
+      ]
+    ]
+  },
+  {
+    "sheet": "Sheet4",
+    "rows": 7,
+    "columns": 2,
+    "autofilter_range": null,
+    "filter_columns": [],
+    "tables": [],
+    "first_rows": [
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "Row Labels",
+        "Count of price"
+      ],
+      [
+        "actual",
+        8760
+      ],
+      [
+        "actual,aggregate",
+        472
+      ]
+    ]
+  },
+  {
+    "sheet": "Sheet2",
+    "rows": 45738,
+    "columns": 16,
+    "autofilter_range": null,
+    "filter_columns": [],
+    "tables": [
+      "wfp_food_prices_afg"
+    ]
+  },
+  {
+    "sheet": "Sheet5",
+    "rows": 235,
+    "columns": 16,
+    "autofilter_range": null,
+    "filter_columns": [],
+    "tables": [
+      "wage_flour_coverage_2019_2025"
+    ],
+    "first_rows": [
+      [
+        "flag_policy",
+        "market_id",
+        "market",
+        "flour",
+        "matched_months",
+        "expected_months",
+        "coverage_percent",
+        "ambiguous_wage_months",
+        "ambiguous_flour_months"
+      ],
+      [
+        "all_flags",
+        266,
+        "Fayzabad",
+        "Wheat flour",
+        0,
+        84,
+        0,
+        0,
+        0
+      ],
+      [
+        "all_flags",
+        267,
+        "Mazar",
+        "Wheat flour",
+        0,
+        84,
+        0,
+        0,
+        0
+      ],
+      [
+        "all_flags",
+        268,
+        "Bamyan",
+        "Wheat flour",
+        0,
+        84,
+        0,
+        0,
+        0
+      ],
+      [
+        "all_flags",
+        269,
+        "Maymana",
+        "Wheat flour",
+        0,
+        84,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "sheet": "Sheet1",
+    "rows": 1,
+    "columns": 1,
+    "autofilter_range": null,
+    "filter_columns": [],
+    "tables": [],
+    "first_rows": [
+      [
+        null
+      ]
+    ]
+  }
+]

@@ -1,7 +1,0 @@
-flag_policy,flour,matched_market_months,markets_with_matches,markets_with_84_months
-actual_only,Wheat flour,24,4,0
-actual_only,Wheat flour (high quality),0,0,0
-actual_only,Wheat flour (low quality),0,0,0
-all_flags,Wheat flour,24,4,0
-all_flags,Wheat flour (high quality),2311,34,0
-all_flags,Wheat flour (low quality),2311,34,0

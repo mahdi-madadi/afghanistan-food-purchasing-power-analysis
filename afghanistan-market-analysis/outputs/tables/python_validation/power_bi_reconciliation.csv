@@ -1,0 +1,17 @@
+﻿month,metric,power_bi_displayed,python_value,tolerance,passed
+2020-05-01,median_daily_wage,300.0,300.0,0.005,True
+2020-05-01,median_flour_price,34.25,34.25,0.005,True
+2020-05-01,median_purchasing_power,8.81,8.8099128540305,0.005,True
+2022-06-01,median_daily_wage,300.0,300.0,0.005,True
+2022-06-01,median_flour_price,51.28,51.28,0.005,True
+2022-06-01,median_purchasing_power,5.78,5.778133903133902,0.005,True
+2024-07-01,median_daily_wage,300.0,300.0,0.005,True
+2024-07-01,median_flour_price,26.25,26.25,0.005,True
+2024-07-01,median_purchasing_power,12.57,12.56578947368421,0.005,True
+2025-12-01,median_daily_wage,300.0,300.0,0.005,True
+2025-12-01,median_flour_price,29.0,29.0,0.005,True
+2025-12-01,median_purchasing_power,10.04,10.042016806722689,0.005,True
+2025-12-01,p25,9.4,9.401939655172413,0.005,True
+2025-12-01,p75,10.71,10.714285714285714,0.005,True
+2025-12-01,iqr,1.31,1.3123460591133007,0.005,True
+2024-10-01,maximum_absolute_difference,0.219,0.21890547263681448,0.0005,True

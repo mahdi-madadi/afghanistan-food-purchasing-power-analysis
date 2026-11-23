@@ -1,0 +1,55 @@
+{
+  "record_type": "screenshot_transcription_and_initial_file_inventory",
+  "prepared_on": "2026-11-15",
+  "source_files_modified": false,
+  "source_metadata": {
+    "evidence": "user-supplied metadata.png screenshot",
+    "coverage_start": "2000-01-15",
+    "coverage_end": "2026-11-15",
+    "expected_update_frequency": "Every month",
+    "modified_date": "2026-11-04",
+    "contributor": "WFP - World Food Programme",
+    "source": "FPMA, RRD, Vulnerability Analysis and Mapping (VAM) - WFP via FAO; GIEWS, WFP",
+    "added_on_hdx": "2018-09-26",
+    "dataset_id": null,
+    "dataset_id_note": "Small screenshot text could not be verified confidently; copy from source page.",
+    "location": "Afghanistan",
+    "methodology": "Registry",
+    "caveats": "Although the frequency of updates is set to every month, updates may occur more or less frequently",
+    "license_label": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "license_version": null,
+    "license_url": null,
+    "tags": ["economics", "food security", "indicators", "markets"],
+    "visibility": "Public",
+    "download_date": null,
+    "resource_urls": null
+  },
+  "file_observations": {
+    "wfp_food_prices_afg.csv": {
+      "rows_excluding_header": 45737,
+      "columns": ["date", "admin1", "admin2", "market", "market_id", "latitude", "longitude", "category", "commodity", "commodity_id", "unit", "priceflag", "pricetype", "currency", "price", "usdprice"],
+      "minimum_date": "2000-01-15",
+      "maximum_date": "2026-11-15",
+      "distinct_market_ids": 40,
+      "distinct_commodity_count": 16,
+      "currencies": ["AFN"],
+      "priceflags": ["actual", "actual,aggregate", "aggregate"],
+      "units": ["Day", "KG", "L", "Unit", "USD/LCU"],
+      "unskilled_wage_label": "Wage (non-qualified labour, non-agricultural)",
+      "flour_labels": ["Wheat flour", "Wheat flour (high quality)", "Wheat flour (low quality)"]
+    },
+    "wfp_markets_afg.csv": {
+      "rows_excluding_header": 140,
+      "columns": ["market_id", "market", "countryiso3", "admin1", "admin2", "latitude", "longitude"]
+    }
+  },
+  "audit_status": "Initial inventory only; completeness, duplicates, join cardinality, unit consistency and matched wage-price coverage remain to be audited.",
+  "interpretation_notes": [
+    "Screenshot metadata and CSV observations are separate evidence sources.",
+    "Date range does not imply complete series coverage.",
+    "Market lookup row count is not the count of markets observed in the price data.",
+    "Actual and aggregate price flags require investigation before aggregation.",
+    "Early wage magnitudes require investigation; no adjustment applied.",
+    "The modified date precedes the stated coverage end; preserve both pending clarification."
+  ]
+}
